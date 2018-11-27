@@ -6,7 +6,14 @@ Designs for a LED based Photoacoustics light source
 *TODO*
 ## Usage
 Pin layout:
-*TODO TABLE*
+
+| Col 1 | Col 2 |
+|:---:|:------:|
+| GND | Signal |
+| GND |   Vcc  |
+| GND |   Vs   |
+| GND | Buttom |
+
 ## Files
 The board designs are provided as is, in Eagle format.
 The following files can be found in the `Files` folder:
@@ -14,3 +21,4 @@ The following files can be found in the `Files` folder:
 - `photoacoustic_board.rar`, containing
   - `board.sch` - schematic file.
   - `board.brd` - board file.
+- `photoacoustic_board.pdf` - PDF of the schematics.
