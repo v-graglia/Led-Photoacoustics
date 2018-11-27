@@ -4,8 +4,9 @@ Designs for a LED based Photoacoustics light source
 
 ## Capabilities
 *TODO*
+
 ## Usage
-Pin layout:
+### Pin layout:
 
 | Col 1 | Col 2 |
 |:---:|:------:|
@@ -14,11 +15,10 @@ Pin layout:
 | GND |   Vs   |
 | GND | Button |
 
+### Inputs
 - Signal: TTL/CMOS  
 - VCC = 10 V
 - VS ≥ 50 V
-
-
 
 ## Files
 The board designs are provided as is, in Eagle format.
