@@ -16,7 +16,7 @@ Pin layout:
 
 - Signal: TTL/CMOS  
 - VCC = 10 V
-- VS $$\geq$$ 50 V
+- VS ≥ 50 V
 
 
 
