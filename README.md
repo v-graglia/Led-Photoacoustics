@@ -12,7 +12,7 @@ Pin layout:
 | GND | Signal |
 | GND |   Vcc  |
 | GND |   Vs   |
-| GND | Buttom |
+| GND | Button |
 
 ## Files
 The board designs are provided as is, in Eagle format.
