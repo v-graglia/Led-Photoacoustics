@@ -31,5 +31,6 @@ The following files can be found in the `Files` folder:
   - `board.sch` - schematic file.
   - `board.brd` - board file.
 
+- `library.lib' - Library containing all the components utilized in the schematic
 
 - `photoacoustic_board.pdf` - PDF of the schematics.
