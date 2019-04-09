@@ -3,9 +3,9 @@ Designs for a LED based Photoacoustics light source
 
 
 ## Capabilities
- - Pulse width: 70 - 1 $\mu s$
+ - Pulse width: 70 - 1 us
  - Current: > 20 A
- - Energy/Pulse: up to 100 $\mu J$ @ 63 V/200 ns
+ - Energy/Pulse: up to 100 uJ @ 63 V/200 ns
 
 ## Usage
 ### Pin layout:
